@@ -32,8 +32,10 @@ The 12 months of data were derived from monthly CSV files, which were imported t
 During the analysis process, the primary tool used was pivot tables. By using pivot tables, over 1 million rows of data were efficiently organized into actionable insights. 
 
 ### Total Membership Split 
-It was discovered 
+It was discovered that out of the million rider data, 25% of these riders were casual users, while the majority of 75% users were members. This reinforces the claim that the business is successful in its current efforts, but needs slight tweaks to convert the remaining 25% of users. 
+
 ### Weekly Trends 
+When analyzing the line graph for the trends of users throughout the week, it was apparent that casual users have higher usage on the weekends, whereas members have higher usage during weekdays. This indicates that casual users are much more likely to be using this service for leisure, whereas members may need the bike share for c 
 
 ### Monthly Trends
 

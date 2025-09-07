@@ -41,7 +41,7 @@ When analyzing the line graph for the trends of users throughout the week, it wa
 The analysis of this factor suggests that the majority of casual users use the bike service between hours of 12 pm and 4 pm, which is the afternoon. However, members use this service most between hours 5 pm to 8 pm, which is the evening. This insight reaffirms our former conclusion that most members use the bike-share for work commute, whereas casual users use it for leisure. 
 
 ### Ride Length Trends
-
+The results of comparing the length of rides for each membership were similar, which shows that the distance travelled by these users wasn't an influencing factor of being a member. 
 
 ### Monthly Trends
 

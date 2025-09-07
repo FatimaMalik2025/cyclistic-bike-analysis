@@ -44,7 +44,6 @@ The analysis of this factor suggests that the majority of casual users use the b
 The results of comparing the length of rides for each membership were similar, which shows that the distance travelled by these users wasn't an influencing factor of being a member. 
 
 ### Monthly Trends
-
+While the results of both members' usage across a year were in consensus, there were some valuable insights. There is a spike in April that aligns with what one may assume as the weather is warmer; consequently, in colder months, there is lower usage as is inevitable. However, a discrepancy with this analysis is that the summer months are missing from the chart to confirm that summer had the highest usage. This issue was faced due to the maximum data capacity of Excel. A conclusion that could be derived using the analysis is that towards the warmer months, we saw an increase, which indicates that there could be an increase during summer and warmer months. 
  
-
 ## Reccomendations 

@@ -42,6 +42,12 @@ The analysis of this factor suggests that the majority of casual users use the b
 The results of comparing the length of rides for each membership were not a significant differentiator between casuals and members, suggesting that the trip purpose (commute vs leisure) is more influential than trip duration. 
 ### Monthly Trends
 While the results of both members' usage across a year were in consensus, there were some valuable insights. There is a spike in April that aligns with what one may assume as the weather is warmer; consequently, in colder months, there is lower usage as is inevitable. Due to Excel’s row limit, July–September were not included. Based on April/May growth, we can reasonably infer summer peaks, but this should be validated with the full dataset.
+
+Here’s a preview of the interactive charts:
+
+![Summary Statistics](images/dashboard_snapshot.png)
+
+Download the interactive dashboard here: [Summary Stats File](link-to-your-SS-file)
  
 ## Recomendations 
 Based on the uncovered insights, the following recommendations have been provided:

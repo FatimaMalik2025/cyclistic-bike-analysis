@@ -35,7 +35,7 @@ Here is a preview of the cleaned data:
 
 ![Cleaned Data](images/cleaned_data_snapshot.png)
 
-Download the cleaned data here: [Summary Statistics](https://github.com/FatimaMalik2025/cyclistic-bike-analysis/blob/main/data/cyclistic_cleaned_data.xlsx)
+Download the cleaned data here: [Cleaned Data](https://github.com/FatimaMalik2025/cyclistic-bike-analysis/blob/main/data/cyclistic_cleaned_data.xlsx)
 
 ## Analysis
 During the analysis process, the primary tool used was pivot tables. By using pivot tables, over 1 million rows of data were efficiently organized into actionable insights. 
@@ -62,7 +62,7 @@ Here’s a preview of the interactive charts:
 
 Download the interactive dashboard here: [Dashboard](https://github.com/FatimaMalik2025/cyclistic-bike-analysis/blob/main/data/cyclistic_dashboard.xlsx)
  
-## Recomendations 
+## Recommendations 
 Based on the uncovered insights, the following recommendations have been provided:
 - **Versatile membership options:** The majority of casual users use this service on the weekend for leisure; this means that getting an annual membership is not feasible. This means that, rather than having only two options for membership, there should be more accommodations. A beneficial option would be to add a weekend membership that allows those who do not use the bike-share during the weekdays to commit to an annual membership for just the weekends. 
 - **Seasonal campaigns:** During the warmer seasons, there is a general spike in business. These seasons also result in an increased number of tourists, for which a summer membership would be ideal. A summer membership would mean that casual members would be more comfortable committing, and after analyzing their trip patterns over the summer, they could receive a personalized offer. For example, if they are a tourist, they could receive a discounted price next time they visit, increasing the number of loyal users. Similarly, a local could receive incentives for extending their membership, such as a discounted price for the following months. 

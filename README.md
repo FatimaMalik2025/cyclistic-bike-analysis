@@ -18,7 +18,12 @@ The source of the data examined in this project is Cyclistic; the analysis cover
 - **started_at/ended_at**: The time and date of when the ride started and ended
 - **member_casual**: Membership status of rider
 
+Here is a preview of the uncleaned data:
+
+![Uncleaned Data](images/uncleaned_data_snapshot.png)
+
 ## Methodology 
+
 The 12 months of data were derived from monthly CSV files, which were imported to Power Query. The files were merged into a single dataset once the initial transformation of the organization was conducted using Power Query. While Power Query aided in the alignment and initial organization of data, there were still some discrepancies, as well as further preparation required to set up for the analysis. These steps consisted of the following:
 
 - Removed unused station columns due to null values 
@@ -26,8 +31,16 @@ The 12 months of data were derived from monthly CSV files, which were imported t
 - Removed duplicate rows as well as blank rows
 - Created new calculated fields: ride duration, ride bins (time of day, ride length), day/month/hour extracted from start_at
 
+Here is a preview of the cleaned data:
+
+![Cleaned Data](images/cleaned_data_snapshot.png)
+
+Download the cleaned data here: [Summary Statistics](https://github.com/FatimaMalik2025/cyclistic-bike-analysis/blob/main/data/cyclistic_cleaned_data.xlsx)
+
 ## Analysis
 During the analysis process, the primary tool used was pivot tables. By using pivot tables, over 1 million rows of data were efficiently organized into actionable insights. 
+
+Download the summary statistics here: [Summary Statistics](https://github.com/FatimaMalik2025/cyclistic-bike-analysis/blob/main/data/cyclistic_analysis_.xlsx)
 
 ### Total Membership Split 
 It was discovered that out of the million rider data, 25% of these riders were casual users, while the majority of 75% users were members. This reinforces the claim that the business is successful in its current efforts, but needs slight tweaks to convert the remaining 25% of users. 
@@ -45,9 +58,9 @@ While the results of both members' usage across a year were in consensus, there 
 
 Here’s a preview of the interactive charts:
 
-![Summary Statistics](images/dashboard_snapshot.png)
+![Dashboard](images/dashboard_snapshot.png)
 
-Download the interactive dashboard here: [Summary Stats File](link-to-your-SS-file)
+Download the interactive dashboard here: [Dashboard](https://github.com/FatimaMalik2025/cyclistic-bike-analysis/blob/main/data/cyclistic_dashboard.xlsx)
  
 ## Recomendations 
 Based on the uncovered insights, the following recommendations have been provided:
